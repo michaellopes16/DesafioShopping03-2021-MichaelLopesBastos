@@ -1,7 +1,7 @@
 # Desafio_Shopping
 Passo a passo para execução
 
-Baixe ou clone o projeto em uma pasta do computador, através do link: https://github.com/michaellopes16/Desafio_Shopping.git
+Baixe ou clone o projeto em uma pasta do computador, através do link: https://github.com/michaellopes16/DesafioShopping03-2021-MichaelLopesBastos.git
 
 Se estiver zipado, descompacte e com o visual Studio 2019, importe o projeto da pasta resultante.
 
